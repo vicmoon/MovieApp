@@ -1,4 +1,6 @@
 // backend/index.js
+//https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/
+//https://pixabay.com/api/docs/
 const express = require("express");
 const axios = require("axios");
 const dotenv = require("dotenv");
